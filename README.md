@@ -2,7 +2,7 @@
 
 Hi. thanks for stopping by!
 
-This is a personal project I have been working on over the last 2 months which detects potentially hateful speech in Twitter comments. To do this, I trained a Machine Learning model using a dataset CSV file with ~20,000 tweets and tested it with a series of files each with ~4000 tweets. The datasets used for this project can be found as files within this repositary. 
+This is a personal project I have been working on over the last 2 months which detects potentially hateful speech in Twitter comments. To do this, I trained a Machine Learning model using a dataset CSV file with ~10,000 tweets and tested it with a series of files each with ~4000 tweets. The datasets used for this project can be found as files within this repositary. 
 
 ## Overview
 
