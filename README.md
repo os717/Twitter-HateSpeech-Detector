@@ -10,11 +10,11 @@ To start with, I wrote a script which 'cleans' the tweets ready for further proc
 
 ## Results
 
-Testing has showed that my latest model successfully ignores 81% of benign tweets and identifies 73% of hateful tweets. It was intersting to notice that, when tuning the model, there was often an inverse retionship between successfully identifying hateful comments and sucessfully ignoring non-hateful comments (which potentially poses difficult societal questions for how we should deal with hate-speech - should we lean towards wrongly flagging benign comments in order to ensure hateful comments are always flagged, or should we prioritise never flagging benign comments but accept that some hateful comments may fall through). 
+Testing has showed that my latest model successfully ignores 81% of benign tweets and identifies 73% of hateful tweets. It was intersting to notice that, when tuning the model, there was often an inverse retionship between successfully identifying hateful comments and sucessfully ignoring non-hateful comments (which potentially poses difficult societal questions for how we should deal with hate-speech - should we lean towards wrongly flagging benign comments in order to ensure hateful comments are always flagged, or should we prioritise never flagging benign comments but accept that some hateful comments may fall through the gaps). 
 
 ## Next Steps
 
 At the moment, I am currently investigating ways of reducing the false-positive rate for flagging the hateful speech by incorporating sarcasm/humour detection into the model. 
 
-### All in all, this has been a really interesting experience for me. Just wanted to share my progress ;) - stay tuned for updates.
+### All in all, this has been a really interesting project. Just wanted to share my progress ;) - stay tuned for updates.
 
